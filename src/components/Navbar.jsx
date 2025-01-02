@@ -4,7 +4,7 @@ import Button from './Button';
 import { useWindowScroll } from 'react-use';
 import gsap from 'gsap';
 
-const navItems = ['Nexus', 'Vault', 'Prologue', 'About', 'Contact'];
+const navItems = ['Champion', 'About'];
 
 const Navbar = () => {
 
